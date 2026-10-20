@@ -1,0 +1,14 @@
+node_modules
+.svelte-kit
+.wrangler
+.dev.vars
+.vercel
+.netlify
+build
+data
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.*
+!.env.example
