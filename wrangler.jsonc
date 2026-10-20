@@ -12,7 +12,7 @@
 		{
 			"binding": "DB",
 			"database_name": "financas",
-			"database_id": "TROQUE-PELO-ID-DO-D1",
+			"database_id": "9aa3b3ee-1749-4c26-9ba7-8365e13fb2db",
 			"migrations_dir": "migrations"
 		}
 	]
